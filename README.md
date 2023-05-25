@@ -1,8 +1,14 @@
-<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leon Santana</h1>
+## Hi, I'm Leon Santana 😉
 
 - 🔥 Student Developer
 - 🎓 Studying Systems Analysis and Development 
 
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
 ### Contatos:
 
