@@ -34,5 +34,5 @@
   
 </div>
 
-![snake animation](https://github.com/<LeonSantana7>/<LeonSantana7>/blob/output/github-contribution-grid-snake2.svg)
+![](https://raw.githubusercontent.com/LeonSantana7/LeonSantana7/output/github-contribution-grid-snake.svg)
 
