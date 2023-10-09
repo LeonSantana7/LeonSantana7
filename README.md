@@ -1,7 +1,7 @@
-## Hi, I'm Leon Santana 😉
+## Ola, eu sou Leon Santana 😉
 
-- 🔥 Student Developer
-- 🎓 Studying Systems Analysis and Development 
+- 🔥 Técnico em Desenvolvimento de Sistemas
+- 🎓 Estudante de Back-end da Cubos Academy 
 
 <div>
   
