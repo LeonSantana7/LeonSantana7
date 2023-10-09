@@ -1,4 +1,4 @@
-## Ola, eu sou Leon Santana 😉
+## Olá, eu sou Leon Santana 😉
 
 - 🔥 Técnico em Desenvolvimento de Sistemas
 - 🎓 Estudante de Back-end da Cubos Academy 
