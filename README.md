@@ -22,12 +22,13 @@
 
 
 #### Frameworks
-[![Flutter](https://img.shields.io/badge/-Flutter-1389fd?style=square&logo=flutter&logoColor=white)](https://flutter.dev/)]
-[![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com/)]
+[![Flutter](https://img.shields.io/badge/-Flutter-1389fd?style=square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
+
 
 #### Databases
-[![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-rgb(204,%2041,%2039)?style=square&logo=microsoft-sql-server&logoColor=white&link=https://github.com/GuiEdington/)]
-[![MySQL](https://img.shields.io/badge/-MySQL-rgb(68,%20121,%20161)?style=square&logo=mysql&logoColor=e97b00&link=https://github.com/GuiEdington/)]
+[![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-rgb(204,%2041,%2039)?style=square&logo=microsoft-sql-server&logoColor=white&link=https://github.com/GuiEdington/)
+[![MySQL](https://img.shields.io/badge/-MySQL-rgb(68,%20121,%20161)?style=square&logo=mysql&logoColor=e97b00&link=https://github.com/GuiEdington/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=square&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
 
 
