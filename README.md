@@ -10,12 +10,6 @@
   
 </div>
 <br>
-### My Experience:
-#### Programing languages
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Dart](https://img.shields.io/badge/-Dart-rgb(1,%20117,%20194)?style=square&logo=dart&logoColor=white)](https://dart.dev/)
-[![Java](https://img.shields.io/badge/-Java-orange?style=square&logo=java&logoColor=white)](https://www.java.com/)
-[![PHP](https://img.shields.io/badge/-PHP-purple?style=square&logo=php&logoColor=white)](https://www.php.net/)
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
