@@ -27,13 +27,13 @@
 
 
 #### Databases
-[![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-rgb(204,%2041,%2039)?style=square&logo=microsoft-sql-server&logoColor=white&link=https://github.com/GuiEdington/)
-[![MySQL](https://img.shields.io/badge/-MySQL-rgb(68,%20121,%20161)?style=square&logo=mysql&logoColor=e97b00&link=https://github.com/GuiEdington/)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-rgb(204,%2041,%2039)?style=square&logo=microsoft-sql-server&logoColor=white&link=https://github.com/GuiEdington/)
+![MySQL](https://img.shields.io/badge/-MySQL-rgb(68,%20121,%20161)?style=square&logo=mysql&logoColor=e97b00&link=https://github.com/GuiEdington/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=square&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
 
 
 #### Operating Systems
-[![Windows](http://img.shields.io/badge/-Windows-rgb(0,%20120,%20214)?style=square&logo=windows&logoColor=white&link=https://github.com/GuiEdington/)
+![Windows](http://img.shields.io/badge/-Windows-rgb(0,%20120,%20214)?style=square&logo=windows&logoColor=white&link=https://github.com/GuiEdington/)
 [![Linux](http://img.shields.io/badge/-Linux-rgb(33,%2041,%2056)?style=square&logo=linux&logoColor=white&link=https://sua_pagina_no_github_aqui/)](https://www.linux.org/)
 
 ### Others Technologies
