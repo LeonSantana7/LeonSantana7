@@ -3,9 +3,6 @@
 - 🔥 Técnico em Desenvolvimento de Sistemas
 - 🎓 Estudante de Back-end da Cubos Academy 
 
-<div>
-  
-</div>
 <br>
 
 ### My Experience:
