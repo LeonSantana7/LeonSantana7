@@ -32,6 +32,8 @@
 
 ### Others Technologies
 [![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=square&logo=node.js&logoColor=white&link=https://nodejs.org/)](https://nodejs.org/)
+[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=square&logo=insomnia&logoColor=white&link=https://insomnia.rest/)](https://insomnia.rest/)
+
 
 
   ## Contatos:
