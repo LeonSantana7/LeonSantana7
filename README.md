@@ -18,6 +18,8 @@
 #### Frameworks
 [![Flutter](https://img.shields.io/badge/-Flutter-1389fd?style=square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=square&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
+
 
 
 #### Databases
