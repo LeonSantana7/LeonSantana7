@@ -1,7 +1,7 @@
 ## Olá, eu sou Leon Santana 😉
 
 - 🔥 Técnico em Desenvolvimento de Sistemas
-- 🎓 Estudante de Back-end da Cubos Academy 
+- 🎓 Formado na trilha de Back-end da Cubos Academy 
 ### My Experience:
 #### Programing languages
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
