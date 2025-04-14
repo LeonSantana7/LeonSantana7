@@ -2,8 +2,8 @@
 
 - 🔥 Técnico em Desenvolvimento de Sistemas
 - 🎓 Formado na trilha de Back-end da Cubos Academy 
-### My Experience:
-#### Programing languages
+### Experience:
+#### Programming languages
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Java](https://img.shields.io/badge/-Java-orange?style=square&logo=java&logoColor=white)](https://www.java.com/)
