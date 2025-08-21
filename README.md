@@ -1,11 +1,12 @@
-<h1 align="center">⚡ Leon Santana ⚡</h1>
-<h3 align="center">Full Stack Developer • Python • Django REST • React • Next.js • Docker • PostgreSQL</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=120&section=header&text=⚡%20Leon%20Santana%20⚡&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
----
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=From+Foundations+to+Full+Stack;Building+Scalable+%26+Futuristic+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=⚡+Full+Stack+Developer;⚛+React+%7C+🟦+Next.js+%7C+🔷+TypeScript;🐍+Python+%7C+🌿+Django+%7C+🛠️+Django+REST;🐘+PostgreSQL+%7C+🐳+Docker+%7C+🔧+Git;🟨+HTML5+%7C+🟦+CSS3+%7C+🟨+JavaScript" alt="Typing Animation" />
 </p>
+
 
 ---
 
@@ -50,7 +51,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonSantana7&layout=compact&langs_count=8&theme=tokyonight&title_color=00f0ff&text_color=ffffff&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LeonSantana7&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&bg_color=0d1117" alt="stats"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeonSantana7&theme=tokyonight&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&background=0d1117&dates=ffffff" alt="streak"/>
 </div>
 
 ---
@@ -69,3 +71,9 @@
   </a>
 </div>
 
+---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=100&section=footer"/>
+</p>
