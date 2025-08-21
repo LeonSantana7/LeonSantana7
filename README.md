@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=120&section=header&text=⚡%20Leon%20Santana%20⚡&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
@@ -6,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=⚡+Full+Stack+Developer;⚛+React+%7C+🟦+Next.js+%7C+🔷+TypeScript;🐍+Python+%7C+🌿+Django+%7C+🛠️+Django+REST;🐘+PostgreSQL+%7C+🐳+Docker+%7C+🔧+Git;🟨+HTML5+%7C+🟦+CSS3+%7C+🟨+JavaScript" alt="Typing Animation" />
 </p>
-
 
 ---
 
@@ -48,6 +48,18 @@
 
 ---
 
+### 🛠️ Tools & Utilities
+<div align="center">
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Insomnia-0d1117?style=for-the-badge&logo=insomnia&logoColor=5A43C4" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Terminal-0d1117?style=for-the-badge&logo=gnome-terminal&logoColor=ffffff" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -73,7 +85,7 @@
 
 ---
 
-
+<!-- 🚀 Futuristic Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=100&section=footer"/>
 </p>
