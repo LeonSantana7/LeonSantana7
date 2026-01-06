@@ -63,8 +63,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LeonSantana7&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&bg_color=0d1117" alt="stats"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeonSantana7&theme=tokyonight&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&background=0d1117&dates=ffffff" alt="streak"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LeonSantana7&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&hide_border=true" alt="LeonSantana7 Stats"/>
+  
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeonSantana7&theme=tokyonight&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&dates=ffffff&hide_border=true" alt="LeonSantana7 Streak"/>
 </div>
 
 ---
